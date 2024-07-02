@@ -15,7 +15,7 @@
  
  🔭 I’m currently studying on **Kalasalingam Acadamy of Research and Education**
  
- 🌱 I’m currently learning **Web Development Data Structures**
+ 🌱 I’m currently learning **Web Development,Data Structures**
 
 💬 Ask me about **Coding Or anything [here](https://github.com/basavaadarsh/basavaadarsh/issues)**
 
