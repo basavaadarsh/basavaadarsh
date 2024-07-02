@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying on **Kalasalingam Acadamy of Research and Education**
+ 🔭 I’m currently studying in **Kalasalingam Acadamy of Research and Education**
  
  🌱 I’m currently learning **Web Development,Data Structures**
 
