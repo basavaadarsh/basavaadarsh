@@ -46,7 +46,6 @@ Hey, I'm Adarsh, a passionate Web Developer and a fourth-year B.Tech student spe
 - Web Development (HTML/CSS/JavaScript)
 - Python Programming
 - Machine Learning Algorithms
-- Natural Language Processing
 - Data Analysis and Visualization
 
 
